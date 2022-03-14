@@ -9,7 +9,7 @@ public class GitTestsApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitTestsApplication.class, args);
 
-        HelloWorld.hello();
+        HelloWorld.hi();
     }
 
 }
